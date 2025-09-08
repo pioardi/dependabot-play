@@ -1,2 +1,1 @@
 # dependabot-play
-test
