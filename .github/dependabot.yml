@@ -9,4 +9,10 @@ updates:
     directory: "/" # Location of package manifests
     target-branch: "develop"
     schedule:
-      time: "13:35"
+      time: "09:45"
+
+  - package-ecosystem: "npm" # See documentation for possible values
+    directory: "/" # Location of package manifests
+    target-branch: "develop2"
+    schedule:
+      time: "09:45"
